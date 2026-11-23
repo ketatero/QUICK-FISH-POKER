@@ -1,0 +1,8 @@
+.actions button:disabled{opacity:.35;cursor:not-allowed}
+.showdown{position:absolute;z-index:2;bottom:7px;left:50%;transform:translateX(-50%);width:min(92%,360px);max-height:75px;overflow:auto;background:#0b0e0ddd;border:1px solid #b89c5d;border-radius:7px;padding:5px;display:flex;flex-direction:column;gap:3px}
+.showdown>span{display:flex;align-items:center;gap:4px;font-size:9px;white-space:nowrap}
+.showdown .card{width:24px;height:34px;font-size:10px}
+.actions{grid-template-columns:repeat(4,minmax(0,1fr));gap:5px}
+.actions button{padding:10px 6px;font-size:11px}
+.wait.eliminated{height:auto;min-height:82px;gap:5px;padding:6px 0}
+.wait.eliminated .primary{min-height:44px;font-size:11px;letter-spacing:0}
