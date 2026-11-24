@@ -6,3 +6,7 @@
 .actions button{padding:10px 6px;font-size:11px}
 .wait.eliminated{height:auto;min-height:82px;gap:5px;padding:6px 0}
 .wait.eliminated .primary{min-height:44px;font-size:11px;letter-spacing:0}
+
+.version{display:block;margin-top:-10px;color:#8f805d;font-size:.68rem;letter-spacing:.08em;text-align:center}.reset-actions{display:flex;gap:10px}.reset-actions button{flex:1;min-height:46px}
+
+.panel .toggle-row{display:flex;align-items:center;justify-content:space-between;gap:14px}.panel .toggle-row input{width:24px;height:24px;margin:0;accent-color:#d2b36b}.setting-note{margin:-14px 0 22px;color:#9a9d94;font-size:12px;line-height:1.6}.showdown-continue{flex:none;padding:4px 0 8px}.showdown-continue .primary{min-height:48px}
