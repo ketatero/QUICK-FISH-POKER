@@ -10,3 +10,5 @@
 .version{display:block;margin-top:-10px;color:#8f805d;font-size:.68rem;letter-spacing:.08em;text-align:center}.reset-actions{display:flex;gap:10px}.reset-actions button{flex:1;min-height:46px}
 
 .panel .toggle-row{display:flex;align-items:center;justify-content:space-between;gap:14px}.panel .toggle-row input{width:24px;height:24px;margin:0;accent-color:#d2b36b}.setting-note{margin:-14px 0 22px;color:#9a9d94;font-size:12px;line-height:1.6}.showdown-continue{flex:none;padding:4px 0 8px}.showdown-continue .primary{min-height:48px}
+
+.game-hints h3{margin:18px 0 6px;color:#d2b36b;font-size:14px}.game-hints p{font-size:13px;line-height:1.75;color:#e2e0d9}.game-hints .hint-footnote{font-size:11px;color:#9a9d94;border-top:1px solid #30322c;padding-top:10px}
